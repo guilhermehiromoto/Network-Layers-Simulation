@@ -1,0 +1,1 @@
+void CamadaDeAplicacaoReceptora(int frame[], int messageSize);
